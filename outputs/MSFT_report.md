@@ -23,7 +23,7 @@ Sector: Technology | Industry: Software - Infrastructure
 | WACC                        |   0.106 |
  
 ## 3. Financials
-![fin](outputs/MSFT_financials.png)
+![fin](https://github.com/sherinsusan0403/equity_research_project/blob/main/outputs/MSFT_financials.png)
  
 |      |   Revenue |   Operating income |   Net income |   FCF |
 |-----:|----------:|-------------------:|-------------:|------:|
