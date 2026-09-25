@@ -10,7 +10,7 @@ Microsoft Corporation, a technology company, develops and supports a portfolio o
 Sector: Technology | Industry: Software - Infrastructure
  
 ## 2. Price & risk
-![price](equity_research_project/outputs/MSFT_price.png)
+![price](https://github.com/sherinsusan0403/equity_research_project/blob/main/outputs/MSFT_price.png)
  
 |                             |   Value |
 |:----------------------------|--------:|
