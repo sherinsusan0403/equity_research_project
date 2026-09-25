@@ -59,7 +59,7 @@ Assumptions: risk-free = latest 10y Treasury yield (5.16%), ERP 5%, tax shield 2
  
 Peer-median trailing P/E × EPS → **388.63**; peer-median forward P/E × forward EPS → **352.36**.
  
-![ff](outputs/MSFT_football_field.png)
+![ff](https://github.com/sherinsusan0403/equity_research_project/blob/main/outputs/MSFT_football_field.png)
  
 ## 6. Risks & limitations
 - DCF is highly sensitive to WACC and terminal growth (see grid); one-stage FCF growth extrapolates history.
